@@ -1,31 +1,26 @@
-<h1 align="left">Hey 👋 I'm Lucas👋</h1>
+## Hey 👋 I'm Lucas👋</h1>
 
-###
+### Apenas um apaixonado por dados compartilhando seus humildes projetos.
+#
 
-<h2 align="left">💻Analista de dados e um entusiasta da área, sempre curioso para aprender algo novo. Acredito no poder da comunidade e adoro compartilhar conhecimento.</h2>
-
-###
-
-<h2 align="left">Principais ferramentas</h2>
-
-###
+### Principais Ferramentas:
 
 <div align="left">
   <!-- Microsoft SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="Microsoft SQL Server logo" />
+  <img height="40" src="https://github.com/lsales7/Portifolio/blob/main/Nova%20pasta/Sql_data_base_with_logo.svg.png?raw=true" />
 
   <!-- Power BI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="Power BI logo" />
+  <img height="40" src="https://github.com/lsales7/Portifolio/blob/main/Nova%20pasta/New_Power_BI_Logo.svg.png?raw=true" />
 
   <!-- Microsoft Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="Microsoft Excel logo" />
+  <img height="40" src="https://github.com/user-attachments/assets/94dab6be-5796-4f12-a084-b73209a91774" />
 </div>
 
-###
+### Onde me encontrar:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
