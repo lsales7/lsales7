@@ -5,10 +5,10 @@
 
 <div align="left">
   <!-- Microsoft SQL Server -->
-  <img height="40" src="https://github.com/lsales7/Portifolio/blob/main/Nova%20pasta/Sql_data_base_with_logo.svg.png?raw=true" />
+  <img height="40" src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" />
 
   <!-- Power BI -->
-  <img height="40" src="https://github.com/lsales7/Portifolio/blob/main/Nova%20pasta/New_Power_BI_Logo.svg.png?raw=true" />
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" />
 
   <!-- Microsoft Excel -->
   <img height="40" src="https://github.com/user-attachments/assets/94dab6be-5796-4f12-a084-b73209a91774" />
