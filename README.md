@@ -1,5 +1,3 @@
-## Hey 👋 I'm Lucas👋</h1>
-
 ### Apenas um apaixonado por dados compartilhando seus humildes projetos.
 #
 
